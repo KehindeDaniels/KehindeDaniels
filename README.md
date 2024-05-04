@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KehindeDaniels
-  combining my design skils with code, Building functional and aesthetics UIs 
+- combining my design skils with code, Building functional and aesthetics UIs 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on front-end proojects
 - 📫 How to reach me: check my media links
