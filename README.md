@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @KehindeDaniels
 - combining my design skils with writing code, to build functional and aesthetics UIs 
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning Next.js                                                                                
+  
+  
+  
+  
 - 💞️ I’m looking to collaborate on front-end proojects
 - 📫 How to reach me: check my media links
 
